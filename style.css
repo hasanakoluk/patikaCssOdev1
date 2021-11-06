@@ -1,0 +1,116 @@
+.baslik {
+    color: red;
+    text-align: center;
+}
+
+.altBaslik {
+    color: black;
+    text-align: center;
+}
+
+.dene{
+    color: blueviolet;
+    text-align: center;
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+   
+}
+
+.dene li{
+    padding: 10px;
+    margin: 5px;
+    text-transform:uppercase; /* Yazıları büyük harfli yapar */
+    border-style: dashed;
+    border-radius: 5px;
+    font-family: 'Merienda', cursive;
+
+}
+.dene li:hover{
+    color:chocolate;
+    
+}
+
+.hosgeldiniz {
+    text-align: center;
+    color:red;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.diller{
+    text-align: center;
+    list-style-type: none;
+}
+
+.diller li {
+    color: blueviolet;
+    text-shadow: steelblue;
+}
+
+.diller li:hover {
+    border:15px;
+    color:red;
+}
+
+.php {
+    display: flex;
+    align-items: center;
+    justify-content:center;
+}
+.php p {
+    width: 250px;
+    height: 300px;
+    display: flex;
+    justify-content:center;
+    text-align: center;
+}
+
+.csharp {
+    display: flex;
+    align-items: center;
+    justify-content:center;
+}
+.csharp p {
+    width: 250px;
+    height: 300px;
+    display: flex;
+    justify-content:center;
+    text-align: center;
+}
+
+.java {
+    display: flex;
+    align-items: center;
+    justify-content:center;
+}
+.java p {
+    width: 250px;
+    height: 300px;
+    display: flex;
+    justify-content:center;
+    text-align: center;
+}
+
+.python {
+    display: flex;
+    align-items: center;
+    justify-content:center;
+}
+.python p {
+    width: 250px;
+    height: 300px;
+    display: flex;
+    justify-content:center;
+    text-align: center;
+}
+
+.hakkinda h2{
+    margin-left: 50px;
+    text-transform: uppercase;
+}
+
+.hakkinda p {
+    margin-left: 50px;
+    width: 500px;
+    height: 100px;
+}
